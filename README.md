@@ -7,5 +7,12 @@ Full data set will be released upon paper acceptance.
 Sample Data Set:
 https://utdallas.box.com/v/WiFi-Ranging-Testbed-Data
 
+## Quick Start
+
+1. Download the code and data set.
+2. Set the _trialnames_ and corresponding _dist_true_ in _process_data_trials.m_.
+3. Set the single-channel bandwidth (e.g., _HESU_80_) in _process_data_trials.m_.
+4. Run _process_data_trials.m_ to generate CDF and RMSE results for the single-channel measurements, the equivalent PCMC stitch, and the PCMC 16-channel (B=16) stitch.
+
 ## License
 [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/)
