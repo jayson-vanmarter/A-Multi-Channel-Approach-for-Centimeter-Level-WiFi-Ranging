@@ -7,6 +7,8 @@ The full data set will be released upon paper acceptance.
 Sample Data Set:
 https://utdallas.box.com/v/WiFi-Ranging-Testbed-Data
 
+If you want to collaborate with the WiFi ranging testbed, please get in touch with jayson.vanmarter@utdallas.edu.
+
 ## Quick Start
 
 1. Download the code and data set and place them in the same folder.
