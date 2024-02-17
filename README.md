@@ -14,7 +14,7 @@ If you use our code, methods, or data in your research, please cite our paper:
   journal = {IEEE Journal of Indoor and Seamless Positioning and Navigation}, 
   title = {A Multi-Channel Approach and Testbed for Centimeter-Level WiFi Ranging},
   year = {2024},
-  dot = {10.1109/JISPIN.2024.3366850}
+  doi = {10.1109/JISPIN.2024.3366850}
 }
 ```
 
