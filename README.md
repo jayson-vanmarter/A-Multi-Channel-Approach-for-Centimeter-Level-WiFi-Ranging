@@ -1,6 +1,6 @@
 # A Multi-Channel Approach for Centimeter-Level WiFi Ranging
 
-This repository contains the data and code related to our paper titled "[A Multi-Channel Approach and Testbed for Centimeter-Level WiFi Ranging](https://ieeexplore.ieee.org/document/10438856)." This work proposes methods for phase-coherent multi-channel (PCMC) WiFi ranging using timestamp and CFR measurements supporting IEEE 802.11az Next Generation Positioning. Utilizing our proposed PCMC technique with 16 channels, we demonstrate a median error of 2.7 cm and a 90th percentile error of 9.5 cm in line-of-sight conditions.
+This repository contains the data and code related to our paper titled "[A Multi-Channel Approach and Testbed for Centimeter-Level WiFi Ranging](https://doi.org/10.1109/JISPIN.2024.3366850)." This work proposes methods for phase-coherent multi-channel (PCMC) WiFi ranging using timestamp and CFR measurements supporting IEEE 802.11az Next Generation Positioning. Utilizing our proposed PCMC technique with 16 channels, we demonstrate a median error of 2.7 cm and a 90th percentile error of 9.5 cm in line-of-sight conditions.
 
 Full Data Set:
 https://utdallas.box.com/v/WiFi-Ranging-Testbed-Data
